@@ -1,4 +1,4 @@
-# 🌲 Cypress, do Zero à Nuvem ☁️
+# 🌲 Cypress, from zero to the Cloud ☁️
 
 Sample project for the "Cypress, from Zero to the Cloud" course onf the Talking About Testing online school.
 ## Pre-requirements
