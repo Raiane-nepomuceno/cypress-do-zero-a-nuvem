@@ -259,7 +259,7 @@ it("envia o formulário com sucesso usando um comando customizado", () => {
           .should('include','CAC TAT')
 
         })
-  it("encontra o gato escondido",() =>{
+  it("Encontra o gato escondido",() =>{
     cy.get('#cat')
      .invoke('show')
      .should('be.visible')
